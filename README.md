@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and Spline !**
 
-- 👨‍💻 All of my projects are available at (www.anowakowska.com | www.github.com/zajcowaaa)
+- 👨‍💻 All of my projects are available at (www.anowakowska.com | [www.github.com/zajcowaaa](https://github.com/zajcowaaa))
 
 - 📫 How to reach me **anna.izabela.nowakowska@gmail.com | www.linkedin.com/in/annanowakowskazajc/**
 
