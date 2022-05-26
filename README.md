@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Anna</h1>
-<h3 align="left" style="font-size:1.1em;">I'm a junior frontend developer & visual designer. Born and raised in Poland currently living in Denmark.</h3>
+<h1 align="center">Hi 👋, I'm Anna</h1>
+<h3 align="center">I'm a junior frontend developer & visual designer. Born and raised in Poland currently living in Denmark.</h3>
 
 <p align="left"> <a href="https://twitter.com/zajc_ania" target="blank"><img src="https://img.shields.io/twitter/follow/zajc_ania?logo=twitter&style=for-the-badge" alt="zajc_ania" /></a> </p>
 
