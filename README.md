@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my new portfolio](www.anowakowska.com)
 
-- 🌱 Additionally learning **React and Spline !**
+- 🌱 Additionally learning **<a href="https://reactjs.org/docs/getting-started.html">React</a> and <a href="https://spline.design/">Spline</a> !**
 
 - 👨‍💻 All of my projects are available at (www.anowakowska.com | [www.github.com/zajcowaaa](https://github.com/zajcowaaa))
 
