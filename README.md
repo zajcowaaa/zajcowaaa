@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">I'm a junior frontend developer & visual designer. Born and raised in Poland currently living in Denmark.</h3>
+<h3 align="center">I'm a entry level frontend developer & visual designer. Born and raised in Poland currently living in Denmark.</h3>
 
 <p align="left"> <a href="https://twitter.com/zajc_ania" target="blank"><img src="https://img.shields.io/twitter/follow/zajc_ania?logo=twitter&style=for-the-badge" alt="zajc_ania" /></a> </p>
 
 - 🔭 I’m currently working on [my new portfolio](www.anowakowska.com)
 
-- 🌱 I’m currently learning **React and Spline !**
+- 🌱 Additionally learning **React and Spline !**
 
 - 👨‍💻 All of my projects are available at (www.anowakowska.com | [www.github.com/zajcowaaa](https://github.com/zajcowaaa))
 
